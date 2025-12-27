@@ -70,12 +70,6 @@ Automated deployment pipeline using:
 
 ---
 
-## 📈 GitHub Stats
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadShaaban1&show_icons=true&theme=dark)
-
----
-
 ## 🎓 Certifications & Education
 
 - **DevOps Diploma** - Learning Solutions (Jan 2025 - Jul 2025)
