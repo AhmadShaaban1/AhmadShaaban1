@@ -1,8 +1,17 @@
-# 👋 Hi, I'm Ahmed Shaaban
+## 👋 Hi, I'm Ahmed Shaaban
 
-**DevOps Engineer & Infrastructure Automation Specialist**
+Junior DevOps Engineer focused on infrastructure automation, Linux systems,
+containerization, and CI/CD pipelines.
 
-I'm passionate about automating infrastructure, building scalable cloud architectures, and implementing CI/CD pipelines. I specialize in transforming manual deployments into fully automated, production-ready environments using modern DevOps tools and practices.
+🚀 Hands-on experience with:
+- Linux (Ubuntu, CentOS)
+- Bash & Python automation
+- Docker & Kubernetes
+- Vagrant & Virtualization
+- GitHub Actions & CI/CD fundamentals
+
+📌 Actively building real-world DevOps projects to improve reliability,
+automation, and deployment efficiency.
 
 ---
 
